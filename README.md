@@ -20,7 +20,7 @@
   
 ### Heroku Deployment
   
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://sjmxaditi.github.io/Am-Noob/)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/9717tushar/SONURAOMUSICBOT)
   
   
 ###  Okteto Deployment
